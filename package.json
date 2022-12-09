@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "tinycolor": "0.0.1",
     "tinygradient": "^1.0.0"
   },
